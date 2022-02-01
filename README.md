@@ -2,7 +2,7 @@
 
 Namaste! Hey there! I am Sumedh. Here is what I am up to:
 
-- 🏦  Currently working at @razorpay in the RazorpayX business unit and handling outgoing payments going on our neobanking platform.
+- 🏦  Currently working at [Razorpay](https://razorpay.com) in the RazorpayX business unit and handling outgoing payments going on our neobanking platform.
 - 🛏️  Have worked with [Rentomojo](https://rentomojo.com) as a Backend Engineer and handled their KYC module.
 - 🖥️  Have worked at [HackerRank](https://hackerrank.com) and [Devfolio](https://devfolio.co) as a developer intern in the past.
 - ✨  Have been a Google Summer of Code fellow with [FOSSASIA](https://fossasia.org) where we in team worked on revamping their eventyay platform.
