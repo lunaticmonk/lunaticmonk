@@ -18,7 +18,7 @@ Besides programming, here is what I enjoy doing:
 Let's talk:
 
 <a href="https://twitter.com/lunatic_monk">
-  <img align="left" alt="Sumedh's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+  <img align="left" alt="Sumedh's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter-squared.png"/>
 </a>
 
 <a href="https://www.linkedin.com/in/sumedh-nimkarde/">
