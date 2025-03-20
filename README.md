@@ -10,11 +10,6 @@ Namaste! Hey there! I am Sumedh. Here is what I am up to:
 - ❤️  I preferably work with JavaScript ecosystem on the server end i.e Node.js and Golang too.
 - 💬  I identify myself as a product engineer who has a bit of a frontend + design taste as well.
 
-Besides programming, here is what I enjoy doing:
-
-- Learn some musical instrument. Currently I am learning Ukulele!
-- Hang out with people!
-
 Let's talk:
 
 <a href="https://twitter.com/lunatic_monk">
