@@ -2,7 +2,8 @@
 
 Namaste! Hey there! I am Sumedh. Here is what I am up to:
 
-- 🏦 Currently I am working as a Backend Engineer at [Qatalog](https://qatalog.com) building a team hub!
+- 🏦 Currently I am working as a Backend Engineer at [ClickUp](https://clickup.com) building a single app for work!
+- 🏦  Have worked at [Qatalog](https://qatalog.com) building one single app for your work including the AI answers for all your work.
 - 🏦  Have worked at [Razorpay](https://razorpay.com) in the RazorpayX business unit and handling outgoing payments going on our neobanking platform.
 - 🛏️  Have worked with [Rentomojo](https://rentomojo.com) as a Backend Engineer and handled their KYC module.
 - 🖥️  Have worked at [HackerRank](https://hackerrank.com) and [Devfolio](https://devfolio.co) as a developer intern in the past.
